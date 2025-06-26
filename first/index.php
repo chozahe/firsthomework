@@ -11,7 +11,6 @@ while(!$flag){
         echo "имя не может быть числом или пустым алеее" . PHP_EOL;
     }
 }
-
 $age = 0;
 $newflag = false;
 while(!$newflag){
